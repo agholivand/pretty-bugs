@@ -14,3 +14,5 @@ Here is what I think happens when you turn the light on while acquiring an image
 :caption: Sections
 
 ```
+![Dorsophila Brain](_static/Dors_brain.jpg)
+:caption: Brain section of the Dorsophila
